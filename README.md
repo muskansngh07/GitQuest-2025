@@ -8,9 +8,9 @@ Welcome to **GitQuest-2025** – the ultimate GitHub challenge hosted at GITAM V
 
 - Participants solve issues across various programming topics.
 - Each issue has points based on difficulty:
-  - **Easy (30 issues)** – 1 point each  
-  - **Medium (10 issues)** – 3 points each  
-  - **Hard (10 issues)** – 6 points each
+  - **Easy** – 1 point each  
+  - **Medium** – 3 points each  
+  - **Hard** – 6 points each
 - High problem-solving speed and accuracy will determine the winners.
 
 ---
