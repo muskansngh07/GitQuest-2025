@@ -138,7 +138,7 @@ class Main {
                     manager.deleteExpense(idx - 1);
                     break;
 
-                case 4:
+                case 4
                     System.out.println("Total spent: ₹" + manager.totalExpense());
                     break;
 
