@@ -18,6 +18,6 @@ Java is a pure object-oriented language. Everything in Java is treated as an obj
 - Encapsulation
 - Inheritance
 - Polymorphism
-- Abstracion
+- Abstraction
 
 This modular approach helps write reusable and maintainable code.
