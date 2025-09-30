@@ -9,8 +9,13 @@ Welcome to this simple **coding documantation**. Here we will explain some basic
 Variables store data in a program. In Java, you declare them like this:
 
 ```java
+
 int int = 9;
 float pi = 3.14;
+
+int n = 9;
+float pi = 3,14;
+
 ```
 
 Common data types in Java:
@@ -18,7 +23,7 @@ Common data types in Java:
 - `int` - whole numbers
 - `float` - decimal numbers
 - `char` - single character
-- `String` - sequence of charachters
+- `String` - sequence of characters
 
 ---
 
