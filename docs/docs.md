@@ -70,7 +70,7 @@ public int sum(int a, int b) {
 - Using `=` instead of `==` in conditions
 - Forgeting semicolons at the end of statements
 - Accessing arrays out of bounds
-- Dereferencng uninitialized pointers (in C)
+- Dereferencing uninitialized pointers (in C)
 - Using reserved keywords as variable names
 
 ---
