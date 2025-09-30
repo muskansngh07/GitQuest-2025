@@ -1,6 +1,6 @@
-# Coding Basics Documantation
+# Coding Basics Documentation
 
-Welcome to this simple **coding documantation**. Here we will explain some basix coding concepts with examples. Note that some of the code has **intentional errors** for learning purposes.
+Welcome to this simple **coding Documentation**. Here we will explain some basix coding concepts with examples. Note that some of the code has **intentional errors** for learning purposes.
 
 ---
 
@@ -18,7 +18,7 @@ Common data types in Java:
 - `int` - whole numbers
 - `float` - decimal numbers
 - `char` - single character
-- `String` - sequence of charachters
+- `String` - sequence of characters
 
 ---
 
@@ -75,4 +75,4 @@ public int sum(int a, int b) {
 
 ---
 
-**Note:** This documantation is meant for learning and practice. Try to **fix the mistakes** in the code examples as exercises.
+**Note:** This documentation is meant for learning and practice. Try to **fix the mistakes** in the code examples as exercises.
