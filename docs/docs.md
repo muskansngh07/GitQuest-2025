@@ -18,7 +18,7 @@ Common data types in Java:
 - `int` - whole numbers
 - `float` - decimal numbers
 - `char` - single character
-- `String` - sequence of charachters
+- `String` - sequence of characters
 
 ---
 
