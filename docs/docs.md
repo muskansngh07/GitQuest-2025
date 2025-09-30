@@ -28,7 +28,7 @@ Conditional statements allow decision making:
 
 ```java
 int number = 10;
-if(number = 10) {
+if(number == 10) {
     System.out.println("Number is ten");
 } else {
     System.out.println("Number is not ten");
