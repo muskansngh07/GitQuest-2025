@@ -18,7 +18,7 @@ Common data types in Java:
 - `int` - whole numbers
 - `float` - decimal numbers
 - `char` - single character
-- `String` - sequence of characters
+- `String` - sequence of charachters
 
 ---
 
@@ -58,7 +58,7 @@ Functions help reuse code:
 
 ```java
 public int sum(int a, int b) {
-    return a + b
+    return a + b;
 
 }
 ```
@@ -70,7 +70,7 @@ public int sum(int a, int b) {
 - Using `=` instead of `==` in conditions
 - Forgeting semicolons at the end of statements
 - Accessing arrays out of bounds
-- Dereferencing uninitialized pointers (in C)
+- Dereferencng uninitialized pointers (in C)
 - Using reserved keywords as variable names
 
 ---
