@@ -1,6 +1,6 @@
-# Coding Basics Documantation
+# Coding Basics Documentation
 
-Welcome to this simple **coding documantation**. Here we will explain some basix coding concepts with examples. Note that some of the code has **intentional errors** for learning purposes.
+Welcome to this simple **coding documantation**. Here we will explain some basics coding concepts with examples. Note that some of the code has **intentional errors** for learning purposes.
 
 ---
 
