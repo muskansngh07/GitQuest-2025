@@ -42,6 +42,7 @@ if(number = 10) {
 Loops repeat a block of code multiple times:
 
 ```java
+int[] numbers = new int[5]
 for(int i = 0; i <= 5; i++) {
     System.out.println("i = " + arr[i]);
 }
