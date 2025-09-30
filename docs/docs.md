@@ -65,7 +65,7 @@ public int sum(int a, int b) {
 
 ---
 
-## 5. Common Mistaks in Coding
+## 5. Common Mistakes in Coding
 
 - Using `=` instead of `==` in conditions
 - Forgeting semicolons at the end of statements
