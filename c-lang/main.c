@@ -34,7 +34,7 @@ int main() {
   s1.marks = 95.5;
   printStudent(&s1);
 
-  if (num = 10) {
+  if (num == 10) {
     printf("Num is 10\n");
   } else {
     printf("Num is not 10\n");
