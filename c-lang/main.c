@@ -12,7 +12,7 @@ int sumArray(int arr[], int size);
 
 int main() {
   int num = 10;
-  float f = 3, 14;
+  float f = 3.14;
 
   int arr[5] = {1, 2, 3};
   printf("Sum of array: %d\n", sumArray(arr, 5));
