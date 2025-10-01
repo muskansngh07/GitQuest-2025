@@ -78,4 +78,4 @@ public int sum(int a, int b) {
 
 ---
 
-**Note:** This documantation is meant for learning and practice. Try to **fix the mistakes** in the code examples as exercises.
+**Note:** This documentation is meant for learning and practice. Try to **fix the mistakes** in the code examples as exercises.
