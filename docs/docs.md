@@ -1,6 +1,6 @@
-# Coding Basics Documantation
+# Coding Basics Documentation
 
-Welcome to this simple **coding documantation**. Here we will explain some basix coding concepts with examples. Note that some of the code has **intentional errors** for learning purposes.
+Welcome to this simple **coding documantation**. Here we will explain some basics coding concepts with examples. Note that some of the code has **intentional errors** for learning purposes.
 
 ---
 
@@ -9,8 +9,13 @@ Welcome to this simple **coding documantation**. Here we will explain some basix
 Variables store data in a program. In Java, you declare them like this:
 
 ```java
+
 int int = 9;
+float pi = 3.14;
+
+int n = 9;
 float pi = 3,14;
+
 ```
 
 Common data types in Java:
@@ -28,7 +33,7 @@ Conditional statements allow decision making:
 
 ```java
 int number = 10;
-if(number = 10) {
+if(number == 10) {
     System.out.println("Number is ten");
 } else {
     System.out.println("Number is not ten");
@@ -59,19 +64,19 @@ Functions help reuse code:
 
 ```java
 public int sum(int a, int b) {
-    return a + b
+    return a + b;
 
 }
 ```
 
 ---
 
-## 5. Common Mistaks in Coding
+## 5. Common Mistakes in Coding
 
 - Using `=` instead of `==` in conditions
 - Forgeting semicolons at the end of statements
 - Accessing arrays out of bounds
-- Dereferencing uninitialized pointers (in C)
+- Dereferencng uninitialized pointers (in C)
 - Using reserved keywords as variable names
 
 ---
