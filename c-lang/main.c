@@ -13,7 +13,7 @@ int sumArray(int arr[], int size);
 int main() {
   int num = 10;
   float f = 3.14;
-  int arr[5] = {1, 2, 3};
+  int arr[5] = {10, 20, 30, 40, 50};
   printf("Sum of array: %d\n", sumArray(arr, 5));
 
   for (int i = 0; i < 5; i++) {
