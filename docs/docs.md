@@ -14,7 +14,7 @@ int int = 9;
 float pi = 3.14;
 
 int n = 9;
-float pi = 3,14;
+float pi = 3.14;
 
 ```
 
@@ -48,7 +48,7 @@ Loops repeat a block of code multiple times:
 
 ```java
 int[] numbers = new int[5]
-for(int i = 0; i <= 5; i++) {
+for(int i = 0; i < 5; i++) {
     System.out.println("i = " + arr[i]);
 }
 
